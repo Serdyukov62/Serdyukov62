@@ -1,5 +1,7 @@
 # Встал на путь освоения разработки
 
+Привет 	:wave:, меня зовут Влад, я начинающий разработчик, из недавних успехов 
+
 ## Что знаю, в чем могу разобраться
 ![JS](https://img.shields.io/badge/JavaScript-grey?style=flat-sqare&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-grey?style=flat-sqare&logo=html5)
