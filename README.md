@@ -18,5 +18,5 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serdyukov62)](https://github.com/anuraghazra/github-readme-stats) ![LeetCode Stats](https://leetcard.jacoblin.cool/VladislavSerdyukov?theme=nord&font=Zen%20Antique&ext=activity)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serdyukov62)](https://github.com/anuraghazra/github-readme-stats)     ![LeetCode Stats](https://leetcard.jacoblin.cool/VladislavSerdyukov?theme=nord&font=Zen%20Antique&ext=activity)
 
